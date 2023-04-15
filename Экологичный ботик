@@ -33,3 +33,4 @@ def rubish_choice(rub):
     else:
         message = "Я не знаю, что с этим можно сделать"
     return message
+bot.run("MTA5NDU4OTE1MTcyNDE4NzczOA.GJmU2E.mTTAKAA6bm9_BT-g5cfTZxEwzTo8uBUFmsVLBQ")
